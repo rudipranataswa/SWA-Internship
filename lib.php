@@ -1,6 +1,6 @@
 <?php
 class zlib {
-  // add comment here
+  
 
   function is_valid_email($email) {
     // First, check that the email is not empty
@@ -21,7 +21,10 @@ class zlib {
     }
 
     return true;
-	}
+    }
+
+function is_manager(){
+}
 
 
 }
